@@ -39,6 +39,8 @@ python smart_filter.py
 🔑 Enter keyword(s) to filter (e.g. go.id,/login,/admin): go.id,/login,/admin,webmail
 
 ### ✅ Output
-filtered.txt
+```filtered.txt```
+
+
 
 t.me/gibranrakamulyadi
