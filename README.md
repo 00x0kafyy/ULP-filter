@@ -2,6 +2,7 @@
 
 Script Python sederhana namun powerful untuk memfilter baris-baris dari file berdasarkan **multi-kata kunci** seperti domain, path sensitif (`/login`, `/admin`), atau kata tertentu.
 
+### EXAMPLE
 ![Contoh Output Script](assets/example.png)
 
 ---
