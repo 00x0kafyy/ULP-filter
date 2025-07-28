@@ -1,6 +1,7 @@
 # 🔍 Smart Multi-Keyword Filter
 
 Script Python sederhana namun powerful untuk memfilter baris-baris dari file berdasarkan **multi-kata kunci** seperti domain, path sensitif (`/login`, `/admin`), atau kata tertentu.
+![Contoh Output Script](assets/example.png)
 
 ---
 
@@ -37,3 +38,6 @@ python smart_filter.py
 
 ### ✅ Output
 ```filtered.txt```
+
+
+t.me/gibranrakamulyadi
